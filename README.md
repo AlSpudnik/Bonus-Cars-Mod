@@ -9,5 +9,5 @@ Learn more:
 Demo Cars :
 [![youtube](https://img.shields.io/badge/youtube-red.svg)](https://www.youtube.com/watch?v=--tDIBWNw34)
 
-<img src="https://raw.githubusercontent.com/AlSpudnik/Bonus-Cars-Mod/main/bonus_mod.jpg" alt="">
+<img src="https://raw.githubusercontent.com/AlSpudnik/Bonus-Cars-Mod/main/bonus_mod.jpg" width="500" alt="">
 
